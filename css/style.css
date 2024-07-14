@@ -1,0 +1,6 @@
+.bg-box{
+    background-color: green;
+    background-image: url(../imege/home-jpg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
