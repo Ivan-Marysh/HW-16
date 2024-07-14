@@ -1,6 +1,9 @@
 .bg-box{
+    width: 1900px;
+    height: 900px;
     background-color: green;
-    background-image: url(../imege/home-jpg.webp);
-    background-repeat: no-repeat;
-    background-position: center;
+    background-image: url(../imege/home.webp), url(../imege/green.png), url(../imege/lamp.png), url(../imege/donuts.png), url(../imege/hedgehog.webp);
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, bottom, top, right, left;
+    background-size: auto, 300px 300px, 50px 50px, 50px 50px, 50px 50px;
 }
